@@ -3,28 +3,28 @@
 ## After assessing the data gathered for the metric of cleanliness, this is what we found
 
 *Lowest Nitrogen Dioxide Neighborhoods:*
-Harrison Township
-Parkway East
+1. Harrison Township
+2. Parkway East
 
 *Lowest Sulfur Dioxide Neighborhoods:*
-Avalon
-North Braddock
-South Fayette
-Liberty
-West Mifflin
-Lawrenceville
-Clairton
+1. Avalon
+2. North Braddock
+3. South Fayette
+4. Liberty
+5. West Mifflin
+6. Lawrenceville
+7. Clairton
 
 *Lowest Ozone Neighborhoods:*
-Harrison Township
-Lawrenceville
-South Fayette
+1. Harrison Township
+2. Lawrenceville
+3. South Fayette
 
 *Lowest Carbon Monoxide Neighborhoods:*
-Flag Plaza
-Parkway East
-Lawrenceville
-North Braddock
+1. Flag Plaza
+2. Parkway East
+3. Lawrenceville
+4. North Braddock
 
 Immediately, we noticed that Harrison Township has the lowest NO2 and Ozone scores. 
 
@@ -36,11 +36,11 @@ South Fayette has the third lowest score for Ozone and Sulfur Dioxide.
 
 ## Comparing these findings with the overall lowest AQIs
 
-Lawrenceville
-West Mifflin
-Flag Plaza
-Glassport High Street
-North Braddock
+1. Lawrenceville
+2. West Mifflin
+3. Flag Plaza
+4. Glassport High Street
+5. North Braddock
 
 ## We can see that Lawrenceville is consistently low across both individual metrics and overall AQI's. 
 
