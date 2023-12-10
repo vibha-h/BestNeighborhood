@@ -1,4 +1,4 @@
-# Best Neighborhood Raise a Family in Pittsburgh
+# Best Neighborhood to Raise a Family in Pittsburgh
 Best neighborhood to raise a family in Pittsburgh project for Big Ideas in Computing.
 
 ## Team: Route 19
